@@ -111,5 +111,5 @@ AMZ Wholesale Analytics is a proof-of-concept full-stack tool for Amazon sellers
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/jhalzel/amz-wholesale-analytics.git
+git clone https://github.com/0xthomasken/amz-wholesale-analytics.git
 cd amz-wholesale-analytics
